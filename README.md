@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Seth B</h1>
+<h1 align="center">Hi, I'm Seth</h1>
 <h3 align="center">code | blockchain/web3 | offsec</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sethbdev&label=Profile%20views&color=0e75b6&style=flat" alt="sethbdev" /> </p>
