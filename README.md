@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sethbdev" target="blank"><img src="https://img.shields.io/twitter/follow/sethbdev?logo=twitter&style=for-the-badge" alt="sethbdev" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, JavaScript, ReactJS, TypeScript, Ruby on Rails, Python, AI/ML**
+- 🌱 Always learning **JavaScript, ReactJS, TypeScript, Ruby on Rails, Python, OffSec, LLM**
 
 - 📝 I write articles on ...
 
