@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Seth B</h1>
-<h3 align="center">A passionate and infinitely curious software developer working with front and back end.</h3>
+<h3 align="center">Writing code, blockchain/web3 and security.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sethbdev&label=Profile%20views&color=0e75b6&style=flat" alt="sethbdev" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA, JavaScript, ReactJS, TypeScript, Ruby on Rails, Python, AI/ML**
 
-- 📝 I regularly write articles on [https://medium.com/@seth.bdev](https://medium.com/@seth.bdev)
+- 📝 I write articles on ...
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/sethbdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sethbdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/seth-brendle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seth-brendle" height="30" width="40" /></a>
-<a href="https://medium.com/@seth.bdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@seth.bdev" height="30" width="40" /></a>
+<a href="https://medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@seth.bdev" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sethbdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sethbdev" height="30" width="40" /></a>
 <a href="/https://medium.com/@seth.bdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/@seth.bdev" height="30" width="40" /></a>
 </p>
